@@ -8,9 +8,10 @@ This robot was created as part of a project for the **SIOR** exhibition at Sungk
 
 ### Description
 - The human taste receptors have different protein structures depending on the five basic tastes, and the brain perceives different flavors based on the **pattern** in which each taste receptor interacts with taste molecules.
-- This electronic tongue can measure the degrees of **sweetness, saltiness, and sourness** to identify the type of taste.
-- Receiving values from multiple sensors and storing them in a database.
+- Our **Naerumi**, the **electronic tongue** can measure the degrees of **sweetness, saltiness, and sourness** to identify the type of taste.
+- If you give aqueous solution to **Naerumi**, he receiving values from multiple sensors and storing them in a database.
 - Based on the collected data, a model was trained using **multiple logistic regression**, enabling real-time flavor analysis.
+- **Naerumi** give you the answer such as... "It is 76% Salty!!"
 
 ### Technologies
 - Arduino Uno
