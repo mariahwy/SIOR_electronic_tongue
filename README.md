@@ -4,7 +4,7 @@
 This repository is about 'Naerumi', the **electronic tongue** that mimics the human taste receptors.
 This robot was created as part of a project for the **SIOR** exhibition at Sungkyunkwan University's Robotics Club.
 
-
+![Image](https://github.com/user-attachments/assets/0c4935f3-d5ee-4cbe-8931-90d618944f60)
 
 ### Description
 - The human taste receptors have different protein structures depending on the five basic tastes, and the brain perceives different flavors based on the **pattern** in which each taste receptor interacts with taste molecules.
